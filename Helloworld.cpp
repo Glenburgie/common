@@ -8,7 +8,7 @@ public:
     {
         a = o;
         b = t;
-        cout << a+b << endl;
+        cout << a+b << endl; //这只是一个注释
     }
 };
 
